@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @blumepeter
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+blumepeter/blumepeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+I have a problem, i cannot install the App
+![image](https://user-images.githubusercontent.com/102736562/161049737-a6507116-a2d6-48e8-a897-8f247119d531.png)
